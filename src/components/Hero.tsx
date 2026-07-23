@@ -97,7 +97,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreCatalog, onDirectWA }) => {
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white bg-amber-900/10 group">
               <img
                 // src="/img/tahu-bakso-sapi.png"
-                src="./tahu-bakso-sapi.png"
+                src="../img/tahu-bakso-sapi.png"
                 alt="Tahu Bakso Sapi Warm & Crispy"
                 className="w-full h-[380px] sm:h-[450px] object-cover group-hover:scale-105 transition-transform duration-700"
               />
