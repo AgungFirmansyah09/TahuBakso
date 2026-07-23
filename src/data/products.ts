@@ -1,5 +1,6 @@
 import { Product } from '../types';
 
+
 export const PRODUCTS: Product[] = [
   {
     id: 'tb-01',
@@ -10,7 +11,7 @@ export const PRODUCTS: Product[] = [
     price: 10000,
     rating: 4.9,
     reviewCount: 184,
-    image: '../../assets/img/tahu-bakso-sapi.png',
+    image: 'img/tahu-bakso-sapi.png',
     isPopular: true,
     isBestSeller: true,
     spicyLevel: 0,
@@ -31,7 +32,7 @@ export const PRODUCTS: Product[] = [
     price: 12000,
     rating: 4.95,
     reviewCount: 230,
-    image: '../../assets/img/Tahu-bakso-forzeen.png',
+    image: 'img/Tahu-bakso-forzeen.png',
     isPopular: true,
     isBestSeller: true,
     isFrozen: true,
@@ -53,7 +54,7 @@ export const PRODUCTS: Product[] = [
   price: 5000, 
   rating: 4.88, 
   reviewCount: 142, 
-  image: '../../assets/img/risol-mayo-pedas.png', 
+  image: 'img/risol-mayo-pedas.png', 
   isPopular: true, 
   spicyLevel: 3, 
   variants: [ 
@@ -73,7 +74,7 @@ export const PRODUCTS: Product[] = [
   price: 5000, 
   rating: 4.85, 
   reviewCount: 96, 
-  image: '../../assets/img/risol-mayo-biasa.png', 
+  image: 'img/risol-mayo-biasa.png', 
   isPopular: false, 
   spicyLevel: 0, 
   variants: [ 
@@ -93,7 +94,7 @@ export const PRODUCTS: Product[] = [
   price: 10000, 
   rating: 4.82, 
   reviewCount: 78, 
-  image: '../../assets/img/tahu-bakso-ayam.png', 
+  image: 'img/tahu-bakso-ayam.png', 
   isPopular: false, 
   spicyLevel: 0, 
   variants: [ 
@@ -113,7 +114,7 @@ export const PRODUCTS: Product[] = [
     price: 50000,
     rating: 4.98,
     reviewCount: 310,
-    image: '../../assets/img/tahu-bakso-besek.png',
+    image: 'img/Tahu-bakso-besek.png',
     isPopular: true,
     isBestSeller: true,
     spicyLevel: 1,
