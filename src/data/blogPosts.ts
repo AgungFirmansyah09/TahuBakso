@@ -10,7 +10,7 @@ export const BLOG_POSTS: BlogPost[] = [
     readTime: '3 min',
     date: '18 Juli 2026',
     author: 'Chef Ratna - Dapur Nusantara',
-    image: '/assets/img/Tahu-bakso-Forzeen.png',
+    image: '/img/Tahu-bakso-forzeen.png',
     content: {
       intro: 'Tahu bakso frozen adalah penyelamat saat lapar melanda atau butuh cemilan cepat untuk tamu. Namun, kesalahan teknis saat menggoreng sering kali membuat tekstur tahunya terlalu keras atau isian daging baksonya masih dingin di dalam.',
       tips: [
@@ -32,7 +32,7 @@ export const BLOG_POSTS: BlogPost[] = [
     readTime: '5 min',
     date: '12 Juli 2026',
     author: 'Ibu Maryam',
-    image: '/assets/img/tips-tahu-bakso-ceker.png',
+    image: '/img/tips-tahu-bakso-ceker.png',
     content: {
       intro: 'Saat cuaca dingin atau hujan turun, tidak ada yang lebih nikmat selain menyantap semangkuk sup berkuah hangat dengan aroma bawang putih tumis yang harum.',
       ingredients: [
@@ -65,7 +65,7 @@ export const BLOG_POSTS: BlogPost[] = [
     readTime: '4 min',
     date: '05 Juli 2026',
     author: 'Chef Dika',
-    image: '/assets/img/Tahu-bakso-bakar.png',
+    image: '/img/Tahu-bakso-bakar.png',
     content: {
       intro: 'Tahu bakso tidak hanya enak digoreng atau dikukus, tetapi juga luar biasa lezat jika dibakar di atas teflon atau arang dengan olesan bumbu manis pedas gurih.',
       ingredients: [
@@ -96,7 +96,7 @@ export const BLOG_POSTS: BlogPost[] = [
     readTime: '3 min',
     date: '28 Juni 2026',
     author: 'Tim Quality Control UMKM',
-    image: '/assets/img/tips-tahu-bakso-frozeen.png',
+    image: '/img/tips-tahu-bakso-frozeen.png',
     content: {
       intro: 'Sebagai produk olahan tanpa bahan pengawet sintesis, cara penyimpanan tahu bakso sangat menentukan daya simpan dan kesegarannya.',
       tips: [
