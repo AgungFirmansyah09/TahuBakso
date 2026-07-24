@@ -28,12 +28,13 @@ export const Footer: React.FC<FooterProps> = ({ onNavClick }) => {
             </div>
 
             <p className="text-xs text-stone-400 leading-relaxed">
-              Pelopor Tahu Bakso Sapi Super Padat & Juicy di Semarang. Diproses secara higienis menggunakan 100% daging sapi murni tanpa bahan pengawet.
+              Pelopor Tahu Bakso Sapi Super Padat & Juicy. Diproses secara higienis menggunakan 100% daging sapi murni tanpa bahan pengawet.
             </p>
 
             <div className="flex items-center gap-2 text-xs font-bold text-amber-400 bg-stone-800/80 px-3 py-1.5 rounded-xl border border-stone-700/60 w-fit">
               <ShieldCheck className="w-4 h-4" />
-              <span>Sertifikat Halal MUI & P-IRT</span>
+              {/* <span>Sertifikat Halal MUI & P-IRT</span> */}
+              <span>Sertifikat Halal</span>
             </div>
           </div>
 
@@ -72,11 +73,11 @@ export const Footer: React.FC<FooterProps> = ({ onNavClick }) => {
               Produk Favorit
             </h4>
             <ul className="space-y-2 text-xs text-stone-400 font-medium">
-              <li>Tahu Bakso Sapi Original Matang</li>
-              <li>Tahu Bakso Frozen Vacuum Pack (10 Pcs)</li>
-              <li>Tahu Bakso Pedas Mercon Granat</li>
-              <li>Tahu Bakso Keju Mozzarella</li>
-              <li>Hampers Besek Bambu Etnik</li>
+              <li>Tahu Bakso Sapi Original Premium</li>
+              <li>Tahu Bakso Frozen Vacuum Pack</li>
+              <li>Risol Mayoness Ayam Suwir Pedas</li>
+              <li>Risol Mayoness Ayam Suir Original</li>
+              <li>Tahu Bakso Ayam</li>
             </ul>
           </div>
 
@@ -93,7 +94,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavClick }) => {
               Layanan Kurir
             </h4>
             <p className="text-xs text-stone-400">
-              Gojek, Grab, ShopeeFood, & Paxel Cold-Chain (Luar Kota).
+              Antar ke Rumah mu, Takeaway & Paxel Cold-Chain (Luar Kota).
             </p>
           </div>
 

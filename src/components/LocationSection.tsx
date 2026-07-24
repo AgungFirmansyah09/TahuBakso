@@ -89,7 +89,7 @@ export const LocationSection: React.FC = () => {
                 </div>
                 <div>
                   <p className="font-bold text-stone-900">Layanan Tersedia:</p>
-                  <p className="text-stone-600">Dine-In, Takeaway</p>
+                  <p className="text-stone-600"> Antar ke Rumah mu, Takeaway</p>
                 </div>
               </div>
 
@@ -98,7 +98,7 @@ export const LocationSection: React.FC = () => {
             {/* Action Buttons */}
             <div className="pt-2 flex flex-col sm:flex-row gap-2.5">
               <a
-                href="https://maps.google.com/?q=Semarang+Central"
+                href="https://maps.app.goo.gl/7i1FWegXRu3zvmSR7"
                 target="_blank"
                 rel="noreferrer"
                 className="flex-1 py-3 px-4 bg-amber-600 hover:bg-amber-700 text-white font-extrabold text-xs rounded-xl shadow-md flex items-center justify-center gap-2 transition-all"
@@ -152,7 +152,7 @@ export const LocationSection: React.FC = () => {
                 </div>
 
                 <a
-                  href="https://maps.google.com/?q=Semarang+Central"
+                  href="https://maps.app.goo.gl/7i1FWegXRu3zvmSR7"
                   target="_blank"
                   rel="noreferrer"
                   className="px-3 py-1.5 bg-stone-900 hover:bg-stone-800 text-white text-[11px] font-bold rounded-xl flex items-center gap-1 shadow-sm shrink-0"
